@@ -1,0 +1,5 @@
+{
+  "name": "R3 Academy Management System",
+  "description": "A comprehensive management suite for R3 Academy focusing on schedules, student biodata, attendance tracking, and birthday reminders.",
+  "requestFramePermissions": []
+}
